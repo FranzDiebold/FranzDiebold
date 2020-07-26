@@ -1,1 +1,1 @@
-![Hi!](./images/hi.jpg)
+![Hi!](https://raw.githubusercontent.com/FranzDiebold/FranzDiebold/master/images/hi.jpg)
