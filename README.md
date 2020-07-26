@@ -1,1 +1,1 @@
-![Hi!](images/hi.jpg)
+![Hi!](./images/hi.jpg)
